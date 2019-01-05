@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{83E6E89A-6D1E-45F8-B636-3D181D8AC3E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pong/PongWindow.cs">
+    <Files>
+      <File FileName="Pong/PongWindow.cs" Line="104" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Pong PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
